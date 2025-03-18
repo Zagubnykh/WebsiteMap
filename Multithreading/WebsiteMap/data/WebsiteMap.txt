@@ -1,0 +1,17 @@
+https://sendel.ru/
+	https://sendel.ru/about
+	https://sendel.ru/books
+	https://sendel.ru/shorts
+		https://sendel.ru/posts/java-with-vscode/
+		https://sendel.ru/posts/arrays-in-java/
+		https://sendel.ru/posts/migrate-linux-from-one-ssd-to-larger/
+		https://sendel.ru/posts/treemap-java/
+		https://sendel.ru/posts/copy-file-between-git-branches/
+		https://sendel.ru/page/2/
+		https://sendel.ru/page/4/
+	https://sendel.ru/about/
+	https://sendel.ru/books/
+		https://sendel.ru/shorts/git-fetch/
+		https://sendel.ru/shorts/install-docker-windows/
+		https://sendel.ru/shorts/fatjar-gradle/
+		https://sendel.ru/shorts/comments-in-json-postman/
